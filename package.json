@@ -2,7 +2,7 @@
   "name": "Popcorn-Time",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Yify/popcorn-app"
+    "url": "https://github.com/popcorn-team/popcorn-app"
   },
   "main": "app://host/index.html",
   "version": "0.2.7",
